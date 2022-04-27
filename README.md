@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @eugeneivanov101
-- 👀 I’m interested in techical writing
-- 🌱 I’m currently learning Markdown and GitHub
-- 💞️ I’m looking to collaborate on using GitHub in technical documentation
+- 👋 I’m @eugeneivanov101
 - 📫 Reach me at eivanov427@gmail.com
 
 <!---
